@@ -1,0 +1,11 @@
+F:\Comp Sci\Rust\tinyshark\target\debug\deps\liblibc-427b2076311778a2.rmeta: C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\lib.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\macros.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\new\mod.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\primitives.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\windows\mod.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\windows\msvc\mod.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\types.rs
+
+F:\Comp Sci\Rust\tinyshark\target\debug\deps\libc-427b2076311778a2.d: C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\lib.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\macros.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\new\mod.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\primitives.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\windows\mod.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\windows\msvc\mod.rs C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\types.rs
+
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\lib.rs:
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\macros.rs:
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\new\mod.rs:
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\primitives.rs:
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\windows\mod.rs:
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\windows\msvc\mod.rs:
+C:\Users\MOTHERSHIP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.176\src\types.rs:
