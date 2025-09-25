@@ -1,16 +1,11 @@
+mod capture;
+mod files;
+mod list;
+mod tally;
+
 fn main() {
-    let device = pcap::Device::lookup()
-        .expect("device lookup failed")
-        .expect("no device available");
-    println!("Using device {}", device.name);
-
-    // setup the capture:
-    let mut cap = pcap::Capture::from_device(device)
-        .unwrap()
-        .immediate_mode(true)
-        .open()
-        .unwrap();
-
-    // retrieve packet and print out bytes:
-    println!("{:?}", cap.next_packet());
+    files::files();
+    list::list();
+    tally::tally();
+    capture::capture();
 }
