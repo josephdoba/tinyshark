@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>TinyShark</title>
+</head>
+
+<body>
+    <h1>TinyShark</h1>
+    <button id="scanBtn">Run Scan</button>
+    <pre id="output"></pre>
+
+    <script type="module">
+        import { invoke } from "https://cdn.skypack.dev/@tauri-apps/api/tauri";
+        document.getElementById("scanBtn").onclick = async () => {
+            const res = await invoke("run_function", { arg: "hi" });
+            document.getElementById("output").textContent = res;
+        };
+    </script>
+</body>
+
+</html>
