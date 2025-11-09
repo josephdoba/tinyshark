@@ -55,7 +55,9 @@ read -r <file.pcap> → reprocess saved capture offline to regenerate summary.
 # How to Setup:
 - 1:  clone the repo using "git clone https://github.com/josephdoba/tinyshark.git"
 
-- 2: `cargo build` then `cargo run` in the root directory
+- 2: `cargo build` then `cargo run` in the root directory. This tests the backend logic.
+
+- 3: To run the tauri desktop app navigate to the folder "`tinyshark\tauri-ui\src-tauri`" then run "`cargo run`" - This will build and launch the desktop app.
 
 ## Next Steps
 
